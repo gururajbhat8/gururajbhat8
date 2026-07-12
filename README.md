@@ -9,7 +9,7 @@ Building production-grade GenAI systems — RAG pipelines, multi-agent orchestra
 
 ## About
 
-AI/ML Engineer with 2.5+ years of experience shipping GenAI systems in production. Currently at **TCS**, where I built an enterprise RAG chatbot that hit 95% accuracy, cut manual intervention by 40%, and reduced latency by 30% through context-window and chunking optimization.
+AI/ML Engineer with 2.5+ years of experience shipping GenAI systems in production. where I built an enterprise RAG chatbot that hit 95% accuracy, cut manual intervention by 40%, and reduced latency by 30% through context-window and chunking optimization.
 
 Focused on **agentic AI** — systems that plan, retrieve, evaluate, and act — not just single-shot LLM calls.
 
